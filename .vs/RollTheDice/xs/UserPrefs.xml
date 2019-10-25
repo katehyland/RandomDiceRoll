@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{6E9073A5-BBC6-4C30-A5B6-3E446EC4C07D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="RollTheDice/Program.cs">
+    <Files>
+      <File FileName="RollTheDice/Program.cs" Line="14" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RollTheDice" expanded="True">
+            <Node name="RollTheDice" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.RollTheDice PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

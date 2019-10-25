@@ -1,0 +1,11 @@
+/Users/khyland/Projects/RollTheDice/RollTheDice/obj/Debug/netcoreapp3.0/RollTheDice.csprojAssemblyReference.cache
+/Users/khyland/Projects/RollTheDice/RollTheDice/obj/Debug/netcoreapp3.0/RollTheDice.AssemblyInfoInputs.cache
+/Users/khyland/Projects/RollTheDice/RollTheDice/obj/Debug/netcoreapp3.0/RollTheDice.AssemblyInfo.cs
+/Users/khyland/Projects/RollTheDice/RollTheDice/bin/Debug/netcoreapp3.0/RollTheDice
+/Users/khyland/Projects/RollTheDice/RollTheDice/bin/Debug/netcoreapp3.0/RollTheDice.deps.json
+/Users/khyland/Projects/RollTheDice/RollTheDice/bin/Debug/netcoreapp3.0/RollTheDice.runtimeconfig.json
+/Users/khyland/Projects/RollTheDice/RollTheDice/bin/Debug/netcoreapp3.0/RollTheDice.runtimeconfig.dev.json
+/Users/khyland/Projects/RollTheDice/RollTheDice/bin/Debug/netcoreapp3.0/RollTheDice.dll
+/Users/khyland/Projects/RollTheDice/RollTheDice/bin/Debug/netcoreapp3.0/RollTheDice.pdb
+/Users/khyland/Projects/RollTheDice/RollTheDice/obj/Debug/netcoreapp3.0/RollTheDice.dll
+/Users/khyland/Projects/RollTheDice/RollTheDice/obj/Debug/netcoreapp3.0/RollTheDice.pdb
